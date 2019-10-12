@@ -1,0 +1,3 @@
+[submodule "assets/vendors/UserChrome-Tweaks"]
+	path = assets/vendors/UserChrome-Tweaks
+	url = https://github.com/Timvde/UserChrome-Tweaks.git

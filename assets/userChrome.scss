@@ -1,0 +1,13 @@
+//- Functions
+
+@import 'functions/responsive-mixins';
+
+//- Vendor stuff
+//HACK: This does a css import which isn't really going to work for SCSS but haven't actually needed anything in this project yet so I'll probably just more keep it around as reference.
+//@import './vendor/UserChrome-Tweaks/toolbars/faviconized-bookmarks.css';
+
+//TODO: If anybody wants to fix this issue and make a pull request, please do. I don't have the time to fiddle with it any longer.
+
+//- Personal Customizations
+
+@import 'bookmark-toolbar';

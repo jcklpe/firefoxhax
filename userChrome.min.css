@@ -1,0 +1,2 @@
+#PersonalToolbar{visibility:collapse;transition:.4s}#main-window[title="Mozilla Firefox"] #PersonalToolbar,#main-window[title^="New Tab"] #PersonalToolbar{visibility:visible!important;transition:.4s}
+/*# sourceMappingURL=userChrome.min.css.map */
