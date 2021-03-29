@@ -1,3 +1,4 @@
+**NOTICE:** This repo is basically unmaintained. I don't really make extensive use of customizing Firefox and there are security vulnuerabilities in the gulp build system that require upgrading it to to Gulp 4 which I don't really have the interest or time to do right now. I'm leaving this repo open in case anyone has questions and wants to shoot me a message about it. 
 # FireFoxHax
 
 ![](./assets/images/logo.gif)
